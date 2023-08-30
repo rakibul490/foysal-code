@@ -1,0 +1,120 @@
+
+body{
+    margin: 20px;
+}
+
+.down{
+    padding-bottom: 70px;
+}
+
+.back-img{
+    background-image: url('/images/banner/banner3.png');
+    /* background-image: url(/images/banner/banner2.png); */
+    height: 800px;
+}
+.pos{
+    text-align: right;
+    padding-left: 800px;
+    padding-right: 250px;
+    padding-top: 300px;
+}
+.position{
+    text-align: right;
+    padding-left:800px ;
+    padding-right: 250px;
+    padding-top: 50px;
+}
+.btn-pos{
+    text-align: right;
+    padding-right: 260px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.btn{
+    text-align: right;
+    background-color: aqua;
+}
+/* section 2 */
+.my{
+    padding-top: 300px;
+}
+.img{
+    padding-left: 60px;
+}
+.display{
+    display: flex;
+    gap: 45px;
+}
+.botm{
+    padding-right: 440px;
+}
+.p-botm{
+    padding-right: 322px;
+}
+/* section 3 */
+.dis{
+    display: flex;
+    gap:100px ;
+    padding-left: 150px;
+}
+.center{
+    text-align: center;
+    padding-bottom: 45px;
+}
+/* section 4 */
+
+.text{
+    padding-top: 80px;
+}
+
+.sec-img{
+    background-image: url(/images/watch.png);
+    height: 250px;
+}
+.img-pad{
+    padding-left: 100px;
+    padding-right: 150px;
+}
+
+.call-now{
+   border-radius: 15px;
+}
+
+.bg-img{
+    background-image:url(/images/gradient2.png) ;
+    height: 250px;
+    padding-left: 64px;
+    padding-right: 617px;
+    text-align: left;
+
+
+}
+/* last section */
+.gap{
+    padding-bottom: 15px;
+}
+
+
+.btn-padd{
+    padding-right: 100px;
+    text-align: center;
+}
+
+
+.last-dis{
+    display: flex;
+    background-color: black;
+}
+.p-padd{
+    padding-right: 500px;
+    padding-left: 100px;
+    color: aliceblue;
+}
+.b-padd{
+    padding-top: 50px;
+    padding-right: 200px;
+    color: aliceblue;
+}
+
+     
+    
